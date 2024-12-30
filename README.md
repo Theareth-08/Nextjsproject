@@ -1,0 +1,2 @@
+# Nextjsproject
+Learning next js
